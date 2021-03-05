@@ -1,0 +1,771 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/src/logic/entities/creatures/players/ArcherPlayer.java" line="65" />
+    <bookmark url="file://$PROJECT_DIR$/src/logic/map/Map.java" line="162" mnemonic="8" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="15753878-a12f-4888-a746-7e8af3876610" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/src/logic/map/MapFromFile.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/gfx/GamePanel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/gfx/GamePanel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/gfx/Window.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/gfx/Window.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/logic/Direction.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/logic/Hitbox.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/logic/Hitbox.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/logic/entities/Entity.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/logic/entities/Entity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/logic/entities/creatures/Creature.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/logic/entities/creatures/Creature.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/logic/entities/creatures/players/ArcherPlayer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/logic/entities/creatures/players/ArcherPlayer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/logic/entities/creatures/players/KnightPlayer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/logic/entities/creatures/players/KnightPlayer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/logic/entities/creatures/players/Player.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/logic/entities/creatures/players/Player.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/logic/entities/tiles/NullTile.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/logic/entities/tiles/NullTile.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/logic/entities/tiles/StoneTile.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/logic/entities/tiles/StoneTile.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/logic/entities/tiles/Tile.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/logic/entities/tiles/Tile.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/logic/input/KeyManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/logic/input/KeyManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/logic/map/Map.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/logic/map/Map.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/logic/map/RandomMap.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/logic/map/RandomMap.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/logic/states/GameState.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/logic/states/GameState.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/logic/states/State.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/logic/states/State.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/logic/states/menu/MainMenuState.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/logic/states/menu/MainMenuState.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/logic/states/menu/PauseMenuState.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/logic/states/menu/PauseMenuState.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/logic/states/settings/ControlsSettingsState.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/logic/states/settings/ControlsSettingsState.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/logic/states/settings/SettingsState.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/logic/states/settings/SettingsState.java" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/RiverRuner$Main.ic" NAME="Main Coverage Results" MODIFIED="1560708125971" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>start</find>
+      <find>get</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="Feri" />
+      </map>
+    </option>
+    <excluded-from-favorite>
+      <branch-storage>
+        <map>
+          <entry type="LOCAL">
+            <value>
+              <list>
+                <branch-info repo="$PROJECT_DIR$" source="master" />
+              </list>
+            </value>
+          </entry>
+        </map>
+      </branch-storage>
+    </excluded-from-favorite>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/logic/KeyManager.java" />
+        <option value="$PROJECT_DIR$/src/logic/State.java" />
+        <option value="$PROJECT_DIR$/src/logic/MainMenuState.java" />
+        <option value="$PROJECT_DIR$/src/logic/GameState.java" />
+        <option value="$PROJECT_DIR$/src/logic/entities/creatures/ArcherPlayer.java" />
+        <option value="$PROJECT_DIR$/src/logic/entities/creatures/KnightPlayer.java" />
+        <option value="$PROJECT_DIR$/src/gfx/Button.java" />
+        <option value="$PROJECT_DIR$/src/logic/input/MouseManager.java" />
+        <option value="$PROJECT_DIR$/src/gfx/buttons/SetButton.java" />
+        <option value="$PROJECT_DIR$/src/logic/states/MainMenuState.java" />
+        <option value="$PROJECT_DIR$/src/gfx/buttons/SetStateButton.java" />
+        <option value="$PROJECT_DIR$/src/logic/states/SettingsState.java" />
+        <option value="$PROJECT_DIR$/src/logic/states/PauseMenuState.java" />
+        <option value="$PROJECT_DIR$/src/logic/states/State.java" />
+        <option value="$PROJECT_DIR$/src/logic/map/RandomLevel.java" />
+        <option value="$PROJECT_DIR$/src/gfx/sprites/Sprite.java" />
+        <option value="$PROJECT_DIR$/src/logic/camera/PositionManager.java" />
+        <option value="$PROJECT_DIR$/../../FirstWindowedGame_Test/src/worlds/World.java" />
+        <option value="$PROJECT_DIR$/src/logic/entities/tiles/GrassTile.java" />
+        <option value="$PROJECT_DIR$/src/logic/camera/Camera.java" />
+        <option value="$PROJECT_DIR$/src/logic/map/RandomMap.java" />
+        <option value="$PROJECT_DIR$/src/logic/entities/tiles/StoneTile.java" />
+        <option value="$PROJECT_DIR$/src/logic/Direction.java" />
+        <option value="$PROJECT_DIR$/src/logic/entities/creatures/players/KnightPlayer.java" />
+        <option value="$PROJECT_DIR$/src/logic/entities/creatures/players/ArcherPlayer.java" />
+        <option value="$PROJECT_DIR$/src/logic/entities/MoveableEntity.java" />
+        <option value="$PROJECT_DIR$/src/logic/entities/Entity.java" />
+        <option value="$PROJECT_DIR$/src/logic/entities/tiles/Tile.java" />
+        <option value="$PROJECT_DIR$/src/logic/entities/tiles/NullTile.java" />
+        <option value="$PROJECT_DIR$/src/logic/entities/creatures/Creature.java" />
+        <option value="$PROJECT_DIR$/src/logic/entities/creatures/players/Player.java" />
+        <option value="$PROJECT_DIR$/src/logic/map/Map.java" />
+        <option value="$PROJECT_DIR$/src/logic/map/MapFromFile.java" />
+        <option value="$PROJECT_DIR$/src/gfx/buttons/BackButton.java" />
+        <option value="$PROJECT_DIR$/src/gfx/buttons/PlayButton.java" />
+        <option value="$PROJECT_DIR$/src/gfx/buttons/ControlSettingsButton.java" />
+        <option value="$PROJECT_DIR$/src/gfx/buttons/ExitButton.java" />
+        <option value="$PROJECT_DIR$/src/gfx/buttons/ResumeButton.java" />
+        <option value="$PROJECT_DIR$/src/gfx/buttons/ReturnToMainMenuButton.java" />
+        <option value="$PROJECT_DIR$/src/gfx/buttons/SettingsButton.java" />
+        <option value="$PROJECT_DIR$/src/gfx/buttons/Button.java" />
+        <option value="$PROJECT_DIR$/src/logic/states/settings/SettingsState.java" />
+        <option value="$PROJECT_DIR$/src/logic/states/menu/PauseMenuState.java" />
+        <option value="$PROJECT_DIR$/src/Main.java" />
+        <option value="$PROJECT_DIR$/src/logic/states/menu/MainMenuState.java" />
+        <option value="$PROJECT_DIR$/src/gfx/Window.java" />
+        <option value="$PROJECT_DIR$/src/gfx/GamePanel.java" />
+        <option value="$PROJECT_DIR$/src/logic/Hitbox.java" />
+        <option value="$PROJECT_DIR$/src/logic/states/GameState.java" />
+        <option value="$PROJECT_DIR$/src/logic/input/KeyManager.java" />
+        <option value="$PROJECT_DIR$/src/logic/states/settings/ControlsSettingsState.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="288" />
+    <option name="y" value="-21" />
+    <option name="width" value="640" />
+    <option name="height" value="948" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="RiverRuner" type="b2602c69:ProjectViewProjectNode" />
+              <item name="RiverRuner" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="RiverRuner" type="b2602c69:ProjectViewProjectNode" />
+              <item name="RiverRuner" type="462c0819:PsiDirectoryNode" />
+              <item name="res" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="RiverRuner" type="b2602c69:ProjectViewProjectNode" />
+              <item name="RiverRuner" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="RiverRuner" type="b2602c69:ProjectViewProjectNode" />
+              <item name="RiverRuner" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="gfx" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="RiverRuner" type="b2602c69:ProjectViewProjectNode" />
+              <item name="RiverRuner" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="logic" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="RiverRuner" type="b2602c69:ProjectViewProjectNode" />
+              <item name="RiverRuner" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="logic" type="462c0819:PsiDirectoryNode" />
+              <item name="entities" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="RiverRuner" type="b2602c69:ProjectViewProjectNode" />
+              <item name="RiverRuner" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="logic" type="462c0819:PsiDirectoryNode" />
+              <item name="entities" type="462c0819:PsiDirectoryNode" />
+              <item name="creatures" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="RiverRuner" type="b2602c69:ProjectViewProjectNode" />
+              <item name="RiverRuner" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="logic" type="462c0819:PsiDirectoryNode" />
+              <item name="input" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="RiverRuner" type="b2602c69:ProjectViewProjectNode" />
+              <item name="RiverRuner" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="logic" type="462c0819:PsiDirectoryNode" />
+              <item name="states" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="RiverRuner" type="b2602c69:ProjectViewProjectNode" />
+              <item name="RiverRuner" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="logic" type="462c0819:PsiDirectoryNode" />
+              <item name="states" type="462c0819:PsiDirectoryNode" />
+              <item name="settings" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="logic" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\java IDE_IntelliJ IDEA\kozos jatek levivel\RiverRuner\res\textures" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="RiverRuner" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <properties />
+      <listeners />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="15753878-a12f-4888-a746-7e8af3876610" name="Default" comment="" />
+      <created>1558032166507</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1558032166507</updated>
+    </task>
+    <task id="LOCAL-00001" summary="test">
+      <created>1558032222738</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1558032222738</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Added GamePanel and Window classes">
+      <created>1558032595088</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1558032595088</updated>
+    </task>
+    <task id="LOCAL-00003" summary="test comment">
+      <created>1558032881650</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1558032881650</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Created SpriteSheet and Point classes&#10;Added res folder and default texture">
+      <created>1558035775157</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1558035775157</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Created Sprite class">
+      <created>1558036343007</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1558036343007</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Created SpriteSheet class">
+      <created>1558036642961</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1558036642961</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Created Sprite and default sprite">
+      <created>1558037846717</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1558037846717</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Corrected mistake in SpriteSheet">
+      <created>1558038105185</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1558038105185</updated>
+    </task>
+    <task id="LOCAL-00009" summary="created Entity class">
+      <created>1558038492447</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1558038492447</updated>
+    </task>
+    <task id="LOCAL-00010" summary="created Creature and Player classes">
+      <created>1558038678582</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1558038678582</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Created a player with basic methods and started rendering it on&#10;the screen">
+      <created>1558042207233</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1558042207233</updated>
+    </task>
+    <task id="LOCAL-00012" summary="removed moving test code">
+      <created>1558042234042</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1558042234042</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Renamed Piont class to coordinate">
+      <created>1558042687579</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1558042687579</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Created more textures in SpriteSheet.png&#10;Gave the player the Steve texture">
+      <created>1558115035097</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1558115035097</updated>
+    </task>
+    <task id="LOCAL-00015" summary="deleted gray background and graphics2D object">
+      <created>1558119895437</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1558119895437</updated>
+    </task>
+    <task id="LOCAL-00016" summary="added back gray background and fixed flickering on screen">
+      <created>1558121090731</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1558121090732</updated>
+    </task>
+    <task id="LOCAL-00017" summary="removed player test movement">
+      <created>1558121133942</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1558121133942</updated>
+    </task>
+    <task id="LOCAL-00018" summary="Started creating animations&#10;Modified Creature class to have more textures for animation&#10;Created an other constructor for Entity&#10;Added new images to SpriteSheet.png&#10;Moved MCSteve image at SpriteSheet.png&#10;Reset MCSteve image Coordinates at Sprite class">
+      <created>1558222089146</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1558222089147</updated>
+    </task>
+    <task id="LOCAL-00019" summary="Created Animation class&#10;deleted items from Creature class that will be replaced by Animation">
+      <created>1558251751167</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1558251751167</updated>
+    </task>
+    <task id="LOCAL-00020" summary="Added Animations for Player when idle and when moving&#10;Added MovementStatus Enum">
+      <created>1558263990635</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1558263990635</updated>
+    </task>
+    <task id="LOCAL-00021" summary="Fixed animations and movement">
+      <created>1558298389039</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1558298389040</updated>
+    </task>
+    <task id="LOCAL-00022" summary="Fixed bug where KeyManager threw ArrayOutOfBoundsException when windows key was pressed">
+      <created>1558301581975</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1558301581975</updated>
+    </task>
+    <task id="LOCAL-00023" summary="Added KnightPlayer and Archerplayer for more playerStyles&#10;Refactored Animations to Creature from Player">
+      <created>1558384012029</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1558384012029</updated>
+    </task>
+    <task id="LOCAL-00024" summary="replaced playAnimation method's if statements with switch">
+      <created>1558385677783</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1558385677783</updated>
+    </task>
+    <task id="LOCAL-00025" summary="Created State and added MainMenuState and GameState&#10;Created State object at GamePanel&#10;Created MouseManager class">
+      <created>1558458883033</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1558458883051</updated>
+    </task>
+    <task id="LOCAL-00026" summary="Moved Classes into packages&#10;Added manageStateSwitch() function&#10;Moved background settings to individual states&#10;Added button class">
+      <created>1558465556354</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1558465556355</updated>
+    </task>
+    <task id="LOCAL-00027" summary="Added PlayButton class&#10;Created playButton instance in MainMenuState">
+      <created>1558471181235</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1558471181235</updated>
+    </task>
+    <task id="LOCAL-00028" summary="rearranged playButton's position in MainMenuState&#10;simplified animation setup by eliminating unnecessary steps (eg. Frame setup in Creature)">
+      <created>1558473680608</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1558473680608</updated>
+    </task>
+    <task id="LOCAL-00029" summary="removed unnecessary imports">
+      <created>1558473876354</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1558473876354</updated>
+    </task>
+    <task id="LOCAL-00030" summary="made playButton private in MainMenuState">
+      <created>1558473936210</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1558473936210</updated>
+    </task>
+    <task id="LOCAL-00031" summary="added PauseMenuState class&#10;gameState puts you in pauseMenuSate if you press esc">
+      <created>1558512289198</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1558512289198</updated>
+    </task>
+    <task id="LOCAL-00032" summary="made text appear on the middle of the buttons&#10;added more button types and buttons into states&#10;discovered button click bug where states refresh so quickly that if you press a button on a state and there is an other button on the state you switched on, it will push that button too">
+      <created>1558543399822</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1558543399822</updated>
+    </task>
+    <task id="LOCAL-00033" summary="fixed the click bug">
+      <created>1558548396101</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1558548396101</updated>
+    </task>
+    <task id="LOCAL-00034" summary="Made buttons more uniform and more customizable&#10;the pause key is now working in both ways of starting and pausing the game">
+      <created>1558551030434</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1558551030434</updated>
+    </task>
+    <task id="LOCAL-00035" summary="fixed bug where you move and the pause menu comes up">
+      <created>1558553126418</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1558553126418</updated>
+    </task>
+    <task id="LOCAL-00036" summary="different bug fixes&#10;added Settings button and state">
+      <created>1558559683002</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1558559683002</updated>
+    </task>
+    <task id="LOCAL-00037" summary="back button is now working">
+      <created>1558996143271</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1558996143301</updated>
+    </task>
+    <task id="LOCAL-00038" summary="created arrayList for states to make it easier to switch between states (ex.:backButton)">
+      <created>1559166088946</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1559166088946</updated>
+    </task>
+    <task id="LOCAL-00039" summary="fixed bug when state has not been deleted when switching from pauseState to gameState&#10;added new State ControlSettingsState&#10;added nwe Button for ControlSettingState switching">
+      <created>1559403404835</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1559403404835</updated>
+    </task>
+    <task id="LOCAL-00040" summary="created randomly generated maps at the size of the screen">
+      <created>1560202129964</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1560202129964</updated>
+    </task>
+    <task id="LOCAL-00041" summary="created Camera class">
+      <created>1560378308237</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1560378308238</updated>
+    </task>
+    <task id="LOCAL-00042" summary="created map and hitbox (it will be modified later)">
+      <created>1560690566476</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1560690566476</updated>
+    </task>
+    <task id="LOCAL-00043" summary="camera class remake from scratch">
+      <created>1561823658127</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1561823658128</updated>
+    </task>
+    <task id="LOCAL-00044" summary="fixed bug when player could get out of the map at high speed">
+      <created>1561928626470</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1561928626476</updated>
+    </task>
+    <task id="LOCAL-00045" summary="Remade button system (further changes are coming soon)">
+      <created>1576792865800</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1576792865800</updated>
+    </task>
+    <option name="localTasksCounter" value="46" />
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1296" height="1000" extended-state="6" />
+    <layout>
+      <window_info id="Designer" order="2" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Palette&#9;" order="3" />
+      <window_info id="Image Layers" order="2" />
+      <window_info anchor="right" id="Capture Analysis" order="3" />
+      <window_info id="UI Designer" order="2" />
+      <window_info anchor="right" id="Theme Preview" order="3" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Coverage" order="4" side_tool="true" weight="0.32928804" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Inspection Results" order="8" weight="0.3297619" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.22815534" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" weight="0.3297619" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49838188" visible="true" weight="0.3297619" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.3297619" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.50161815" side_tool="true" weight="0.3297619" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3297619" />
+      <window_info anchor="bottom" id="Messages" order="7" sideWeight="0.49919093" weight="0.3297619" />
+      <window_info anchor="right" id="Maven Projects" order="3" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+    </layout>
+    <layout-to-restore>
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49838188" visible="true" weight="0.3297619" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21197411" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3297619" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="right" id="Coverage" order="8" side_tool="true" weight="0.32928804" />
+      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.50161815" side_tool="true" weight="0.3297619" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Version Control" order="9" weight="0.3297619" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Messages" order="10" sideWeight="0.49919093" weight="0.3297619" />
+      <window_info anchor="right" id="Maven Projects" order="7" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+    </layout-to-restore>
+  </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ORDER">
+      <list>
+        <option value="0" />
+        <option value="2" />
+        <option value="3" />
+        <option value="1" />
+      </list>
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_NEW_TODO" value="false" />
+    <MESSAGE value="Fixed animations and movement" />
+    <MESSAGE value="Fixed bug where KeyManager threw ArrayOutOfBoundsException when windows key was pressed" />
+    <MESSAGE value="Added KnightPlayer and Archerplayer for more playerStyles&#10;Refactored Animations to Creature from Player" />
+    <MESSAGE value="replaced playAnimation method's if statements with switch" />
+    <MESSAGE value="Created State and added MainMenuState and GameState&#10;Created State object at GamePanel&#10;Created MouseManager class" />
+    <MESSAGE value="Moved Classes into packages&#10;Added manageStateSwitch() function&#10;Moved background settings to individual states&#10;Added button class" />
+    <MESSAGE value="Added PlayButton class&#10;Created playButton instance in MainMenuState" />
+    <MESSAGE value="rearranged playButton's position in MainMenuState&#10;simplified animation setup by eliminating unnecessary steps (eg. Frame setup in Creature)" />
+    <MESSAGE value="removed unnecessary imports" />
+    <MESSAGE value="made playButton private in MainMenuState" />
+    <MESSAGE value="added PauseMenuState class&#10;gameState puts you in pauseMenuSate if you press esc" />
+    <MESSAGE value="made text appear on the middle of the buttons&#10;added more button types and buttons into states&#10;discovered button click bug where states refresh so quickly that if you press a button on a state and there is an other button on the state you switched on, it will push that button too" />
+    <MESSAGE value="fixed the click bug" />
+    <MESSAGE value="Made buttons more uniform and more customizable&#10;the pause key is now working in both ways of starting and pausing the game" />
+    <MESSAGE value="fixed bug where you move and the pause menu comes up" />
+    <MESSAGE value="different bug fixes&#10;added Settings button and state" />
+    <MESSAGE value="back button is now working" />
+    <MESSAGE value="created arrayList for states to make it easier to switch between states (ex.:backButton)" />
+    <MESSAGE value="fixed bug when state has not been deleted when switching from pauseState to gameState&#10;added new State ControlSettingsState&#10;added nwe Button for ControlSettingState switching" />
+    <MESSAGE value="created randomly generated maps at the size of the screen" />
+    <MESSAGE value="created Camera class" />
+    <MESSAGE value="created map and hitbox (it will be modified later)" />
+    <MESSAGE value="camera class remake from scratch" />
+    <MESSAGE value="fixed bug when player could get out of the map at high speed" />
+    <MESSAGE value="Remade button system (further changes are coming soon)" />
+    <option name="LAST_COMMIT_MESSAGE" value="Remade button system (further changes are coming soon)" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints-dialog>
+        <breakpoints-dialog />
+      </breakpoints-dialog>
+      <option name="time" value="191" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/logic/states/GameState.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="38" column="13" selection-start-line="38" selection-start-column="13" selection-end-line="38" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>10</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
